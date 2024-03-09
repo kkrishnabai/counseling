@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.slot {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.booked {
+  background-color: #ffcccc;
+}
+
+.available {
+  background-color: #ccffcc;
+}
+
+button {
+  margin-top: 5px;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.slot {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.booked {
+  background-color: #ffcccc;
+}
+
+.available {
+  background-color: #ccffcc;
+}
