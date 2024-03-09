@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function () {
     doctorEmail: doctorEmail
   };
 
-  fetch('https://your-server-endpoint.com/send-email', {
+  fetch('https://kkrishnabai.github.io/counseling', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
